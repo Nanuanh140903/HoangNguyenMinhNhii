@@ -1,0 +1,67 @@
+.bai{color:red;font-family: Arial, sans-serif;}
+.hinh{margin-top: 20px;}
+.viettien{ color: blue}
+.tag {background-color:#94d638; border:none; color:white; cursor: pointer;}
+.button {  background-color:#393a3b;border: none; color: white;  padding: 16px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;  margin: 4px 2px; cursor: pointer;}
+.indent{padding-left: 1.7em ;color: gray}
+.docthem {background-color:#54beff; border:none; color:white;padding: 10px 24px;  cursor: pointer;}
+.box {background-color:#cccaca}
+.loimoi { background-color:#2031e6;border:none; color:white;padding: 10px 24px;cursor: pointer;}
+.thamgia{background-color: #d9534f; color: white;border: none;font-size: 12px;padding: 12px 28px;cursor:pointer;}
+.bgbai5{background-image: url(https://cdn.glitch.global/11b9acf8-a8a5-4280-9e5f-05a9442485af/nhung-yeu-to-anh-huong-den-gia-hat-ca-phe_grande.jpg?v=1709566496865);color:white}
+.bai5-container{
+    display: flex;
+    justify-content: center;}
+.bai3-container{
+    margin-left:  400px;
+    margin-right: 400px;}
+
+.background6{
+    width: 1500px;
+    height: 300px;
+    background-image: url("https://cdn.glitch.global/11b9acf8-a8a5-4280-9e5f-05a9442485af/galaxy.png?v=1709527211634");
+    color: white;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    align-items: center;
+    background-size: cover}
+
+.wraptext6{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 70px}
+
+.block{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center}
+
+.block > *{
+    padding: 10px}
+
+.text6{
+    color: yellow;
+    font-size: 15px}
+
+.green{
+    color: #A2FF86}
+
+.pink{
+    color: #FF7ED4}
+
+.red{
+    color: red}
+
+.blue{
+    color: blue}
+
+.number{
+    font-size: 30px}
+
+.block> i{
+    font-size: 30px}
